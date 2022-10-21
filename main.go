@@ -53,5 +53,5 @@ func crawler() {
 
 func main() {
 	crawler()
-	fmt.Println("完成")
+	fmt.Println("ok")
 }
