@@ -53,5 +53,5 @@ func crawler() {
 
 func main() {
 	crawler()
-	fmt.Println("ok")
+	fmt.Println("update")
 }
